@@ -1,3 +1,24 @@
+# PortalJS (datopian/portaljs)
+
+## 프로젝트 개요
+기업과 공공기관이 보유한 방대한 오픈 데이터를 누구나 쉽게 검색하고 탐색할 수 있는 멋진 데이터 포털로 만들어주는 "AI 시대 데이터 포털 프레임워크"
+엑셀 시트나 데이터베이스에 갇혀 있던 숫자들을 인터랙티브 차트와 지도, 대시보드로 시각화하여 대중에게 개방
+데이터를 자산화하고 연구자나 시민들에게 투명하게 지식을 공유하고 싶은 조직의 공식 데이터 허브 구축 솔루션
+
+## 핵심 특징 & 추천 분야
+- 오픈데이터포털
+- 인터랙티브데이터시각화
+- 공공데이터개방허브
+- 차세대지식저장소
+- 데이터민주화플랫폼
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # PortalJS — AI Development Guide
 
 PortalJS is a Next.js framework for building data portals and catalogs. This file teaches AI assistants the conventions, patterns, and idioms used across this repo.
